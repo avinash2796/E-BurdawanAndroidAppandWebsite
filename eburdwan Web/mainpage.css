@@ -1,0 +1,30 @@
+
+          h1{
+         color:darkslateblue;
+              font-weight: bold;
+              font-style: italic;
+              font-family:Verdana;
+
+        }
+h2
+{
+     color:darkgreen;
+              font-weight: bold;
+              font-style:normal;
+              font-family:Calibri;
+}
+h3
+{
+     color:darkblue;
+              font-weight: bold;
+              font-style:normal;
+              font-family:Calibri;
+}
+     body
+        {
+               
+            background-color:antiquewhite;
+            background-repeat: no-repeat;
+            background-size:auto;
+                
+        }
