@@ -1,30 +1,63 @@
-
-          h1{
-         color:darkslateblue;
-              font-weight: bold;
-              font-style: italic;
-              font-family:Verdana;
-
-        }
+h1
+{
+    color:darkslateblue;
+    font-weight: bold;
+  font-style: italic;
+  font-family:Verdana;
+}
 h2
 {
-     color:darkgreen;
-              font-weight: bold;
-              font-style:normal;
-              font-family:Calibri;
+ color:darkgreen;
+          font-weight: bold;
+          font-style:normal;
+          font-family:Calibri;
 }
 h3
 {
-     color:darkblue;
-              font-weight: bold;
-              font-style:normal;
-              font-family:Calibri;
+ color:darkblue;
+          font-weight: bold;
+          font-style:normal;
+          font-family:Calibri;
 }
-     body
-        {
-               
-            background-color:antiquewhite;
-            background-repeat: no-repeat;
-            background-size:auto;
-                
-        }
+strong
+{
+ color:darkgreen;
+          font-weight: bold;
+          font-style:normal;
+          font-family:Calibri;
+}
+body
+{
+
+    background-color:white;
+    background-repeat: no-repeat;
+    background-size:auto;
+
+}
+.mytext
+{
+    width: 500px;
+    height: 30px;
+}
+.sbutton
+{
+    position: relative;
+    left: 615px;
+    color: aliceblue;
+    width: 150px;
+    height: 40px;
+    font-size: 24px;
+    margin: 5px;
+    background-color:red;
+}
+.rqstbutton
+{
+    position: relative;
+    left:0px;
+    width: 250px;
+    height: 60px;
+    font-size: 24px;
+    color: aliceblue;
+    background-color:red;
+    margin:5px;
+}
