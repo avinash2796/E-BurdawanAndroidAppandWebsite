@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         })
         addReviewsButton=findViewById(R.id.addReviews)
         addReviewsButton?.setOnClickListener({
-            var clickIntent=Intent(this@MainActivity,LoginCreateActivity::class.java)
+            var clickIntent=Intent(this@MainActivity,CreateLoginActivity::class.java)
             startActivity(clickIntent)
         })
     }
